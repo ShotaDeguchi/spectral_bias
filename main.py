@@ -18,14 +18,14 @@ def main():
     # params
     f_in   = 1
     f_out  = 1
-    f_hid  = 30
+    f_hid  = 10
     depth  = 5
     lr     = 1e-3
     opt    = "Adam"
     f_scl  = "minmax"
     d_type = "float32"
     r_seed = 1234
-    n_epc  = int(5e4)
+    n_epc  = int(1e4)
 
     # problem setup
     p_id = 1
@@ -72,7 +72,7 @@ def main():
             print("epoch: %d / %d, progress: %.3f" 
                 % (n, n_epc, (n / n_epc * 100)))
 
-            plt.figure(figsize=(8, 8))
+            plt.figure(figsize=(6, 6))
 
             plt.subplot(2, 1, 1)
             plt.plot(t, y, label="function", alpha=.3, linestyle="-", lw = 3, c="k")
