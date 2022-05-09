@@ -6,7 +6,6 @@ This repo is a supplementary material for [author's blog post (Japanese)](https:
 ## Purpose
 
 ## Example
-ReLU network has zig-zag inference result, while others (tanh & Swish) have smooth approximations. This is due to their natures, or continuity to be exact. 
 
 <img src="./00_tf2/figures/example.png">
 
