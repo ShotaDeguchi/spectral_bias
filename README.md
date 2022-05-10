@@ -1,17 +1,14 @@
 ﻿# spectral_bias
 This repo is a supplementary material for [author's blog post (Japanese)](https://qiita.com/drafts). Through a few instances, we investigate the existence of [spectral bias](https://arxiv.org/abs/1806.08734) especially in [DNN function approximation](https://doi.org/10.1016/0893-6080(89)90020-8). 
 
-
-
 ## Purpose
 
 ## Example
+The following are examples of DNN fitting. One can see DNN approximations (blue dashed lines) prefer to start from low-frequency domain, then gradually shift to high-frequency region. 
 
 |Problem 1|Problem 2|
 |:---:|:---:|
-|<img src="https://user-images.githubusercontent.com/49257696/167547117-c0409a2f-8293-4c13-bbfd-ce9378d647bd.gif">|<img src="https://user-images.githubusercontent.com/49257696/167547117-c0409a2f-8293-4c13-bbfd-ce9378d647bd.gif">|
-
-
+|<img src="https://user-images.githubusercontent.com/49257696/167547117-c0409a2f-8293-4c13-bbfd-ce9378d647bd.gif">|<img src="https://user-images.githubusercontent.com/49257696/167547128-52924d1f-70b1-4477-a159-73a656ab926c.gif">|
 
 ## Dependencies
 |Package|Version|
