@@ -7,6 +7,7 @@ This repo is a supplementary material for [author's blog post (Japanese)](https:
 
 ## Example
 
+|Problem 1|Problem 2|
 |:---:|:---:|
 |<img src="https://user-images.githubusercontent.com/49257696/167547117-c0409a2f-8293-4c13-bbfd-ce9378d647bd.gif">|<img src="https://user-images.githubusercontent.com/49257696/167547117-c0409a2f-8293-4c13-bbfd-ce9378d647bd.gif">|
 
