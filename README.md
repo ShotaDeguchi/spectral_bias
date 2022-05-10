@@ -7,7 +7,9 @@ This repo is a supplementary material for [author's blog post (Japanese)](https:
 
 ## Example
 
-<img src="./00_tf2/figures/example.png">
+
+<img src="https://user-images.githubusercontent.com/49257696/167547117-c0409a2f-8293-4c13-bbfd-ce9378d647bd.gif">
+
 
 ## Dependencies
 |Package|Version|
