@@ -1,5 +1,5 @@
 ﻿# spectral_bias
-This repo is a supplementary material for [author's blog post (Japanese)](https://qiita.com/drafts). Through a few instances, we investigate [spectral bias](https://arxiv.org/abs/1806.08734) found in [DNN function approximation](https://doi.org/10.1016/0893-6080(89)90020-8). 
+This repo is a supplementary material for [author's blog post (Japanese)](https://qiita.com/drafts). Through a few instances, we investigate [spectral bias](https://arxiv.org/abs/1806.08734) spotted in [DNN function approximation](https://doi.org/10.1016/0893-6080(89)90020-8). 
 
 ## Example
 The following are examples of DNN fitting. One can see DNN approximations (blue dashed lines) prefer to start from low-frequency domain, then gradually shift to high-frequency region. 
