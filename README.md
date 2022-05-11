@@ -15,7 +15,7 @@ The following are examples of DNN fitting. One can see DNN approximations (blue 
 |matplotlib|3.5.1|
 |numpy|1.22.1|
 |pandas|1.4.0|
-|python|3.8.1|
+|python|3.8.10|
 |scipy|1.7.3|
 |tensorflow|2.8.0|
 
