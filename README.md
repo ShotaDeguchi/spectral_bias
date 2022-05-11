@@ -9,12 +9,13 @@ The following are examples of DNN fitting. One can see DNN approximations (blue 
 |<img src="https://user-images.githubusercontent.com/49257696/167547117-c0409a2f-8293-4c13-bbfd-ce9378d647bd.gif">|<img src="https://user-images.githubusercontent.com/49257696/167547128-52924d1f-70b1-4477-a159-73a656ab926c.gif">|
 
 ## Dependencies
-|Package|Version|
+|Library / Package|Version|
 |:---:|:---:|
 |keras|2.8.0|
 |matplotlib|3.5.1|
 |numpy|1.22.1|
 |pandas|1.4.0|
+|python|3.8.1|
 |scipy|1.7.3|
 |tensorflow|2.8.0|
 
