@@ -4,7 +4,7 @@ This repo is a supplementary material for [author's blog post (Japanese)](https:
 ## Example
 The following are examples of DNN fitting. One can see DNN approximations (blue dashed lines) prefer to learn low-frequency signals first, then gradually shift to high-frequency region. 
 
-|Problem 1 (random sinusoidal signal)|Problem 2 (finite Fourier expansion of square-wave)|
+|Problem 1 (periodic sinusoidal signal)|Problem 2 (finite Fourier expansion of square-wave)|
 |:---:|:---:|
 |<img src="https://user-images.githubusercontent.com/49257696/167547117-c0409a2f-8293-4c13-bbfd-ce9378d647bd.gif">|<img src="https://user-images.githubusercontent.com/49257696/167547128-52924d1f-70b1-4477-a159-73a656ab926c.gif">|
 
