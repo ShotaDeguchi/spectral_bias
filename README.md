@@ -1,8 +1,8 @@
-﻿# spectral_bias
-This repo is a supplementary material for [author's blog post (Japanese)](https://qiita.com/ShotaDeguchi/items/86f7cceedccb4a29970c). Through a few instances, we investigate [spectral bias](https://arxiv.org/abs/1806.08734) spotted in [DNN function approximation](https://doi.org/10.1016/0893-6080(89)90020-8). 
+# spectral_bias
+This repo is a supplementary material for [author's blog post (Japanese)](https://qiita.com/ShotaDeguchi/items/86f7cceedccb4a29970c). Through a few simple examples, we investigate [spectral bias](https://arxiv.org/abs/1806.08734) spotted in [DNN function approximation](https://doi.org/10.1016/0893-6080(89)90020-8). 
 
 ## Example
-The following are examples of DNN fitting. One can see DNN approximations (blue dashed lines) prefer to learn low-frequency signals first, then gradually shift to high-frequency region. 
+The following are examples of DNN fitting. One can see DNN approximations (blue dashed lines) learns low-frequency signals first, then gradually shift to high-frequency region. 
 
 |Problem 1 (periodic sinusoidal signal)|Problem 2 (finite Fourier expansion of square-wave)|
 |:---:|:---:|
